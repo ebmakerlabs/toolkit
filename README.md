@@ -9,7 +9,6 @@ There are several places where data might be stored or used. You might wish to e
 
 RedPhone provides encryption for your calls so nobody can listen into your conversation while using your normal phone number.
 
-
 ##Chat ##
 
 [Mumble](https://mumble.sourceforge.net/) is a chat software that encrypts voice communication with low-latency. It is ideal for gamers.  
@@ -26,20 +25,15 @@ GPG offers secure communication through encryption of data and digital signature
 
 [Mac  GPG](https://gpgtools.org/)
 
-Mailvelope
-
-[Mailvelope]
+[Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions.
 
 ##Secure Browsing##
 
-HTTPS is a communications protocol for secure communication over a computer network.
 
-[EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere)
+[EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere) is a communications protocol for secure communication over a computer network.
 
 
 ## File Storage & sharing across devices
 
-BTSync provides an encrypted way to transfer data without going through a server.
-
-[BTsync](http://www.bittorrent.com/sync/downloads)
+[BTsync](http://www.bittorrent.com/sync/downloads) provides an encrypted way to transfer data without going through a server.
 
