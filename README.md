@@ -33,3 +33,4 @@ A bit of docmentation for unhosted apps:
 
 [BTsync](http://www.bittorrent.com/sync/downloads) provides an encrypted way to transfer data without going through a server.
 
+[EncFS](http://www.arg0.net/encfs) provides an encrypted filesystem in user-space, requiring no special permissions.
