@@ -5,7 +5,12 @@ This is a toolkit for encrypted communications, file storage and sharing.
 
 There are several places and ways that data might be communicated, stored, shared, or used. You might wish to encrypt your data or communications in order to limit who else has access. 
 
-## Phone-based communications ##
+# All Digital Communications Devices #
+
+A password manager. One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can also be used locally (on one computer). 
+
+
+# Phone-based communications #
 
 It's worth noting that *mobile-based communications is NOT SECURE.* The chips and access to your phone's capabilities are embedded deep enough that our apps can't protect us. If you want to give some of these applications a try, they're good starts--as long as you remember that access to underlying technologies lies with your phone providers.
 
@@ -17,6 +22,8 @@ WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.bla
 
 [WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted. *Licensing considerations:* TBD. *Other considerations:* If you really forget your password, all messages stored in TextSecure are no longer accessible.
 
+# Computer-based Communications #
+
 ## Regular Instant Messaging and Chat ##
 
 [Pidgin](https://pidgin.im/) - an instant messager tool for Windows, Linux and other Unix operating systems, is secure if you add a couple of plug-ins like [Off-the-Record Messaging](http://www.cypherpunks.ca/otr/) or [Pidgin-encrypt](http://pidgin-encrypt.sourceforge.net/). For the Mac: [Adium](https://adium.im/) with Off-the-Record Messaging plug-in. These tools lets you log in to accounts on multiple chat networks simultaneously. This allows you to chat "with friends on MSN, talking to a friend on Google Talk, and sitting in a Yahoo chat room all at the same time." *Licenseing considerations:* These tools and plug-ins are open source and licensed under the GNU General Public License.
@@ -26,13 +33,13 @@ WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.bla
 
 [GPG](https://www.gnupg.org/) and [Mac GPG](https://gpgtools.org/) offer secure communication through encryption of data and digital signatures. *License considerations:* GPG stands for Gnu Privacy Guard, and is open source, subject to GNU GPL. *Other considerations:* If you really forget your password, all encrypted messages and files will no longer be accessible.
 
-# Browser-based Email #
+### Browser-based Email ###
 
 [Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions. Works in your browser with services like Yahoo and Gmail. Plug-ins are available for Chrome, and beta for Firefox browsers.
 
-# Browser- and Mobile Device-based Email #
+### Browser- and Mobile Device-based Email ###
 
-[Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising.
+[Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising. Web-based, or downloads available for Outlook or for your technical crew. *Licensing considerations:* See (https://www.hushmail.com/about/technology/security/)
 
 ## Secure Browsing ##
 
@@ -40,7 +47,6 @@ WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.bla
 
 [TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
-A password manager. One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can also be used locally (on one computer). 
 
 ## Voice Chat ##
 
@@ -58,7 +64,7 @@ A password manager. One example is [LastPass](https://lastpass.com/) - a passwor
 
 [SpiderOak](http://spideroak.com) is used for private online backup, sync and sharing across devices.
 
-## Searching ##
+## Secure Searching ##
 
 [DuckDuckGo](https://duckduckgo.com) - search anonymously. They don't send your search info to third parties.
 
