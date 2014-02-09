@@ -28,6 +28,8 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 
 [TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
+[Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising.
+
 
 ## Chat ##
 
