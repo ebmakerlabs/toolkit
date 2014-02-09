@@ -13,6 +13,8 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 
 [WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted.
 
+[OStel](https://ostel.co/about) provides end-to-end secure voice communications on mobile devices and desktop computers.
+
     
 ## Email ##
 
