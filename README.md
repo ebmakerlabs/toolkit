@@ -15,7 +15,7 @@ Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not
 
 ## Phone-based Instant Messaging and Chat ##
 
-[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted. /TOS considerations:/  /Other considerations:/ If you really forget your password, all messages stored in TextSecure are no longer accessible.
+[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted. /TOS considerations:/ TBD. /Other considerations:/ If you really forget your password, all messages stored in TextSecure are no longer accessible.
 
 ## Regular Instant Messaging and Chat ##
 
@@ -36,7 +36,7 @@ Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not
 
 [TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
-A password manager. One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with Firefox, Chrome, and Safari browsers, also on Android and i-devices. Can also be used locally (on one computer).
+A password manager. One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can also be used locally (on one computer). 
 
 ## Voice Chat ##
 
