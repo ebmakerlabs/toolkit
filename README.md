@@ -42,7 +42,7 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 
 [BTsync](http://www.bittorrent.com/sync/downloads) "Secure, unlimited file-syncing. No cloud required." [Video](https://www.youtube.com/watch?v=044jIZfnyqQ)
 
-[EncFS](http://www.arg0.net/encfs) provides an encrypted filesystem that requiring no special permissions. You can use EncFS to encrypt a folder then store it in Dropbox or another remote shared facility.
+[EncFS](http://www.arg0.net/encfs) provides an encrypted filesystem that requires no special permissions. You can use EncFS to encrypt a folder then store it in Dropbox or another remote shared facility.
 
 [SpiderOak](http://spideroak.com) is used for private online backup, sync and sharing across devices.
 
