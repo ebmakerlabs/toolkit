@@ -7,28 +7,39 @@ There are several places where data might be stored or used. You might wish to e
 
 ##Phone-based communications##
 
-RedPhone
-
+RedPhone provides encryption for your calls so nobody can listen into your conversation while using your normal phone number.
 
 
 ##Chat ##
 
-Mumble: https://mumble.sourceforge.net/
+[Mumble](https://mumble.sourceforge.net/) is a chat software that encrypts voice communication with low-latency. It is ideal for gamers.  
 
 A bit of docmentation for unhosted apps:
     https://unhosted.org
     http://remotestorage.io/
     
 ##Email##
-GPG: https://www.gnupg.org/
-    Mac  GPG:  https://gpgtools.org/
+
+GPG offers secure communication through encryption of data and digital signatures.
+
+[GPG](https://www.gnupg.org/)
+
+[Mac  GPG](https://gpgtools.org/)
+
+Mailvelope
+
+[Mailvelope]
 
 ##Secure Browsing##
 
-EFF's HTTPS Everywhere: https://www.eff.org/https-everywhere
+HTTPS is a communications protocol for secure communication over a computer network.
+
+[EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere)
 
 
 ## File Storage & sharing across devices
 
-BTsync
+BTSync provides an encrypted way to transfer data without going through a server.
+
+[BTsync](http://www.bittorrent.com/sync/downloads)
 
