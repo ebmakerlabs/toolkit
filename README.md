@@ -1,13 +1,13 @@
 A Privacy Toolkit
 ================
 
-This is a toolkit for encrypted communications, file storage and sharing. 
+This is a toolkit for encrypted communications, file storage and sharing, and generally for improving your operational security.
 
-There are several places and ways that data might be communicated, stored, shared, or used. You might wish to encrypt your data or communications in order to limit who else has access. 
+There are several ways that digital communications might be communicated, stored, shared, or used--like your phone, tablet, and computer. You might wish to encrypt your data and communications in order to limit who else has access. 
 
 # All Digital Communications Devices #
 
-A password manager. One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can also be used locally (on one computer). 
+*A password manager.* One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can also be used locally (on one computer). 
 
 
 # Phone-based communications #
@@ -35,22 +35,22 @@ WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.bla
 
 ### Browser-based Email ###
 
-[Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions. Works in your browser with services like Yahoo and Gmail. Plug-ins are available for Chrome, and beta for Firefox browsers.
+[Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions. Works in your browser with services like Yahoo and Gmail. Plug-ins are available for Chrome, and beta for Firefox browsers. *Licensing considerations:* Mailvelope was licensed as Gnu GPL (2007). *Other considerations:* Mailvelope currently does not support signing messages.
 
 ### Browser- and Mobile Device-based Email ###
 
-[Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising. Web-based, or downloads available for Outlook or for your technical crew. *Licensing considerations:* See (https://www.hushmail.com/about/technology/security/)
+[Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising. Web-based, or downloads available for Outlook or for your technical crew. *Licensing considerations:* See [security notes](https://www.hushmail.com/about/technology/security/)
 
 ## Secure Browsing ##
 
-[EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere) is a communications protocol for secure in-browser communication.
+[EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere) is a communications protocol for secure in-browser communication. Versions are available for Firefox and Firefox on Android, and development releases for Chrome, Chromium, and Opera 15. *Licensing considerations:* Gnu GPL.
 
-[TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
+[TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security. *Licensing considerations:* Tor is subject to [several licenses](https://gitweb.torproject.org/tor.git?a=blob_plain;hb=HEAD;f=LICENSE).
 
 
 ## Voice Chat ##
 
-[Mumble](https://mumble.sourceforge.net/) is server and client chat software that encrypts voice communication. It's low-latency and is ideal for gamers. This is open source software that you can install on your own server, or use one of the available services that offer to host your account(s).
+[Mumble](https://mumble.sourceforge.net/) is server and client chat software that encrypts voice communication. It's low-latency and is ideal for gamers. This is open source software that you can install on your own server, or use one of the available services that offer to host your account(s). *Licensing considerations:* Mumble is listed as free and open.
 
 ## File Storage & sharing across devices ##
 
@@ -73,7 +73,6 @@ WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.bla
 
 This toolkit was produced by:
 * Judi, [East Bay Maker Labs](https://ebmakerlabs.com)
-* Jenny our awesome intern
-* Alex Fowler, Mozilla
-* Chris Lonnen, Mozilla
-* Mary
+* Jenny Fang, our awesome intern
+* Alex Fowler and Chris Lonnen, Mozilla
+* Zaki, Mary, and others at the [Digital Privacy & Legal Hackathon](https://www.hackerleague.org/hackathons/data-privacy-legal-hackathon)
