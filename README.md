@@ -9,24 +9,28 @@ There are several places and ways that data might be communicated, stored, share
 
 It's worth noting that *mobile-based communications is NOT SECURE.* The chips and access to your phone's capabilities are embedded deep enough that our apps can't protect us. If you want to give some of these applications a try, they're good starts--as long as you remember that access to underlying technologies lies with your phone providers.
 
-[WhisperSystems RedPhone](https://whispersystems.org/) gives you the opportunity to use end-to-end encryption for your calls, but functions just like you're used to. /TOS considerations:/ RedPhone links to the SpanDSP library (LGPL) and SPEEX Codec (variant of BSD, "as is", redistribution limitations), and sound samples under Creative Commons sampling license.
+[WhisperSystems RedPhone](https://whispersystems.org/) gives you the opportunity to use end-to-end encryption for your calls, but functions just like you're used to. *Licensing considerations:* RedPhone links to the SpanDSP library (LGPL) and SPEEX Codec (variant of BSD, "as is", redistribution limitations), and sound samples under Creative Commons sampling license.
 
-Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not available right now, still collects some of the metadata that other phones do, but offers secure calls and text messages. /TOS considerations:/ Blackphone is based on Google's Android operating system and is subject to Google's TOS. Additionally, Blackphone advises that they'll release parts of their work as open source.
+WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not available right now, still collects some of the metadata that other phones do, but offers secure calls and text messages. *Licensing considerations:* Blackphone is based on Google's Android operating system and is subject to Google's TOS. Additionally, Blackphone advises that they'll release parts of their work as open source.
 
 ## Phone-based Instant Messaging and Chat ##
 
-[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted. /TOS considerations:/ TBD. /Other considerations:/ If you really forget your password, all messages stored in TextSecure are no longer accessible.
+[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted. *Licensing considerations:* TBD. *Other considerations:* If you really forget your password, all messages stored in TextSecure are no longer accessible.
 
 ## Regular Instant Messaging and Chat ##
 
-[Pidgin](https://pidgin.im/) - an instant messager tool for Windows, Linux and other Unix operating systems, is secure if you add a couple of plug-ins like [Off-the-Record Messaging](http://www.cypherpunks.ca/otr/) or [Pidgin-encrypt](http://pidgin-encrypt.sourceforge.net/). Want one for Mac? Use [Adium](https://adium.im/) with Off-the-Record Messaging plug-in. These tools lets you log in to accounts on multiple chat networks simultaneously. This allows you to chat "with friends on MSN, talking to a friend on Google Talk, and sitting in a Yahoo chat room all at the same time." 
+[Pidgin](https://pidgin.im/) - an instant messager tool for Windows, Linux and other Unix operating systems, is secure if you add a couple of plug-ins like [Off-the-Record Messaging](http://www.cypherpunks.ca/otr/) or [Pidgin-encrypt](http://pidgin-encrypt.sourceforge.net/). For the Mac: [Adium](https://adium.im/) with Off-the-Record Messaging plug-in. These tools lets you log in to accounts on multiple chat networks simultaneously. This allows you to chat "with friends on MSN, talking to a friend on Google Talk, and sitting in a Yahoo chat room all at the same time." *Licenseing considerations:* These tools and plug-ins are open source and licensed under the GNU General Public License.
 
     
 ## Email ##
 
-[GPG](https://www.gnupg.org/) and [Mac  GPG](https://gpgtools.org/) offer secure communication through encryption of data and digital signatures.
+[GPG](https://www.gnupg.org/) and [Mac GPG](https://gpgtools.org/) offer secure communication through encryption of data and digital signatures. *License considerations:* GPG stands for Gnu Privacy Guard, and is open source, subject to GNU GPL. *Other considerations:* If you really forget your password, all encrypted messages and files will no longer be accessible.
+
+# Browser-based Email #
 
 [Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions. Works in your browser with services like Yahoo and Gmail. Plug-ins are available for Chrome, and beta for Firefox browsers.
+
+# Browser- and Mobile Device-based Email #
 
 [Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising.
 
