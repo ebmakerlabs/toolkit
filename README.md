@@ -1,7 +1,7 @@
-Privacy Toolkit
-==============
+A Privacy Toolkit
+================
 
-A toolkit for encrypted  communications, file storage and sharing.
+A toolkit for encrypted communications, file storage and sharing.
 
 There are several places and ways that data might be communicated, stored, shared, or used. You might wish to encrypt your data or communications in order to limit who else has access. 
 
@@ -11,13 +11,8 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 
 [WhisperSystems RedPhone](https://whispersystems.org/) gives you the opportunity to use end-to-end encryption for your calls, but functions just like you're used to.
 
-[WhisperSystems TextSecure](https://whispersystems.org/) "encrypts your text messages over the air and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use."
+[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted.
 
-## Chat ##
-
-[Mumble](https://mumble.sourceforge.net/) is server and client chat software that encrypts voice communication. It's low-latency and is ideal for gamers.  
-
-[unhosted](https://unhosted.org) and [RemoteStorage](http://remotestorage.io/) -
     
 ## Email ##
 
@@ -30,6 +25,15 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 [EFF's HTTPS Everywhere](https://www.eff.org/https-everywhere) is a communications protocol for secure in-browser communication.
 
 [TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
+
+
+## Chat ##
+
+[Mumble](https://mumble.sourceforge.net/) is server and client chat software that encrypts voice communication. It's low-latency and is ideal for gamers. This is open source software that you can install on your own server, or use one of the available services that offer to host your account(s).
+
+[unhosted](https://unhosted.org) - "unhosted web apps do not send your user data to their server. Either you connect your own server at runtime, or your data stays within the browser." Here are a few [example apps](https://unhosted.org/apps/), 
+
+[RemoteStorage](http://remotestorage.io/) works with unhosted as one option for storing your encrypted files. 
 
 
 ## File Storage & sharing across devices ##
