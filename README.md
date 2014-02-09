@@ -1,21 +1,21 @@
 A Privacy Toolkit
 ================
 
-A toolkit for encrypted communications, file storage and sharing.
+This is a toolkit for encrypted communications, file storage and sharing. 
 
 There are several places and ways that data might be communicated, stored, shared, or used. You might wish to encrypt your data or communications in order to limit who else has access. 
 
 ## Phone-based communications ##
 
-It's worth noting that *mobile-based communications is NOT secure.* The chips and access to your phone's capabilities are embedded deep enough that our apps can't protect us. If you want to give some of these applications a try, they're good starts--as long as you remember that access to underlying technologies lies with your phone providers.
+It's worth noting that *mobile-based communications is NOT SECURE.* The chips and access to your phone's capabilities are embedded deep enough that our apps can't protect us. If you want to give some of these applications a try, they're good starts--as long as you remember that access to underlying technologies lies with your phone providers.
 
-[WhisperSystems RedPhone](https://whispersystems.org/) gives you the opportunity to use end-to-end encryption for your calls, but functions just like you're used to.
+[WhisperSystems RedPhone](https://whispersystems.org/) gives you the opportunity to use end-to-end encryption for your calls, but functions just like you're used to. /TOS considerations:/ RedPhone links to the SpanDSP library (LGPL) and SPEEX Codec (variant of BSD, "as is", redistribution limitations), and sound samples under Creative Commons sampling license.
 
-Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not available right now, still collects some of the metadata that other phones do, but offers secure calls and text messages.
+Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not available right now, still collects some of the metadata that other phones do, but offers secure calls and text messages. /TOS considerations:/ Blackphone is based on Google's Android operating system and is subject to Google's TOS. Additionally, Blackphone advises that they'll release parts of their work as open source.
 
 ## Phone-based Instant Messaging and Chat ##
 
-[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted.
+[WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted. /TOS considerations:/  /Other considerations:/ If you really forget your password, all messages stored in TextSecure are no longer accessible.
 
 ## Regular Instant Messaging and Chat ##
 
@@ -26,7 +26,7 @@ Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not
 
 [GPG](https://www.gnupg.org/) and [Mac  GPG](https://gpgtools.org/) offer secure communication through encryption of data and digital signatures.
 
-[Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions. Works in your browser with services like Yahoo and Gmail.
+[Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions. Works in your browser with services like Yahoo and Gmail. Plug-ins are available for Chrome, and beta for Firefox browsers.
 
 [Hushmail](https://www.hushmail.com/about/) consists of built-in encryption and no third-party advertising.
 
@@ -36,6 +36,7 @@ Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not
 
 [TOR - The Onion Router](https://www.torproject.org/) - free software, open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
+A password manager. One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with Firefox, Chrome, and Safari browsers, also on Android and i-devices. Can also be used locally (on one computer).
 
 ## Voice Chat ##
 
@@ -64,5 +65,5 @@ This toolkit was produced by:
 * Judi, [East Bay Maker Labs](https://ebmakerlabs.com)
 * Jenny our awesome intern
 * Alex Fowler, Mozilla
-* Chris, Mozilla
+* Chris Lonnen, Mozilla
 * Mary
