@@ -60,7 +60,7 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 
 This toolkit was produced by:
 * Judi, [East Bay Maker Labs](https://ebmakerlabs.com)
-* Jenny
+* Jenny our awesome intern
 * Alex Fowler, Mozilla
 * Chris, Mozilla
 * Mary
