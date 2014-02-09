@@ -11,6 +11,8 @@ It's worth noting that *mobile-based communications is NOT secure.* The chips an
 
 [WhisperSystems RedPhone](https://whispersystems.org/) gives you the opportunity to use end-to-end encryption for your calls, but functions just like you're used to.
 
+Phil Zimmermann is working on the [Blackphone](https://www.blackphone.ch/) - not available right now, still collects some of the metadata that other phones do, but offers secure calls and text messages.
+
 ## Phone-based Instant Messaging and Chat ##
 
 [WhisperSystems TextSecure](https://whispersystems.org/) encrypts your text messages as they come in and on your phone. It's almost identical to the normal text messaging application, and is just as easy to use, but requires a password to access. If you lose your phone, your text messages remain encrypted.
