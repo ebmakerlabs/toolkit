@@ -19,11 +19,7 @@ A bit of docmentation for unhosted apps:
     
 ##Email##
 
-GPG offers secure communication through encryption of data and digital signatures.
-
-[GPG](https://www.gnupg.org/)
-
-[Mac  GPG](https://gpgtools.org/)
+[GPG](https://www.gnupg.org/) or [Mac  GPG](https://gpgtools.org/) offer secure communication through encryption of data and digital signatures.
 
 [Mailvelope](http://www.mailvelope.com/) uses the OpenPGP encryption standard which makes it compatible to existing mail encryption solutions.
 
