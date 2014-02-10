@@ -1,5 +1,5 @@
-A Privacy Toolkit
-================
+A Privacy-Enhancing Toolkit
+============
 
 This is a toolkit for encrypted communications, file storage and sharing, and generally for improving your operational security.
 
