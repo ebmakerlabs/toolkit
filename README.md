@@ -7,7 +7,7 @@ There are several ways that digital communications might be communicated, stored
 
 # All Digital Communications Devices #
 
-*A password manager.* One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can also be used locally (on one computer). 
+*Use a password manager.* One example is [LastPass](https://lastpass.com/) - a password manager that stores your passwords in an encrypted form on their server or locally. LastPass can be used with most popular browsers, also on Android, i-devices, Blackberry, and other mobile platforms. Can be used locally (offline). 
 
 
 # Phone-based communications #
@@ -52,21 +52,21 @@ WITH RESERVATION: Phil Zimmermann is working on the [Blackphone](https://www.bla
 
 [Mumble](https://mumble.sourceforge.net/) is server and client chat software that encrypts voice communication. It's low-latency and is ideal for gamers. This is open source software that you can install on your own server, or use one of the available services that offer to host your account(s). *Licensing considerations:* Mumble is listed as free and open.
 
-## File Storage & sharing across devices ##
+# File Storage & Sharing #
 
-[unhosted](https://unhosted.org) - "unhosted web apps do not send your data to their server. Either you connect your own server at runtime, or your data stays within the browser." Here are a few [example apps](https://unhosted.org/apps/), 
+Two major considerations are important in the area of storage and sharing. First, how are your files handled (encrypted?) before, in transit, and during storage, and whether you trust the host where your files are stored. Second, whether the people you're sharing with are also using encryption and practicing the same level of operational security as you. If not, consider your work as open.
 
-[RemoteStorage](http://remotestorage.io/) works with unhosted as one option for storing your encrypted files. 
+[unhosted](https://unhosted.org) - unhosted web apps do not send your in-browser application data to their servers. You connect to your own (trusted) server at runtime, or your data can stay within your browser." Here are a few [example apps](https://unhosted.org/apps/) and [a nice overview](https://unhosted.org/flyer.html). [RemoteStorage](http://remotestorage.io/) works with unhosted as one option for storing your encrypted files. 
 
-[BTsync](http://www.bittorrent.com/sync/downloads) "Secure, unlimited file-syncing. No cloud required." [Video](https://www.youtube.com/watch?v=044jIZfnyqQ)
+[SpiderOak](http://spideroak.com) is used for private online backup, sync and sharing across devices. Recommended by Alex.
+
+[BTsync](http://www.bittorrent.com/sync/downloads) Secure, unlimited file-syncing from the makers of BitTorrent. No cloud required, or can sync over the net between devices. [Video](https://www.youtube.com/watch?v=044jIZfnyqQ)
 
 [EncFS](http://www.arg0.net/encfs) provides an encrypted filesystem that requiring no special permissions. You can use EncFS to encrypt a folder then store it in Dropbox or another remote shared facility.
 
-[SpiderOak](http://spideroak.com) is used for private online backup, sync and sharing across devices.
-
 ## Secure Searching ##
 
-[DuckDuckGo](https://duckduckgo.com) - search anonymously. They don't send your search info to third parties.
+[DuckDuckGo](https://duckduckgo.com) - search anonymously. They don't send your search info to third parties. Check DDG's [about page](https://duckduckgo.com/about) for more on this service.
 
 
 ## Thanks and Credits ##
